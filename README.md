@@ -1,2 +1,9 @@
-# pytgcalls_created_by_me
-Hi everyone what I am about to put and a code of pytgcalls
+# code me
+
+Hi to all 
+
+If you want to get this code use the pytgcalls library
+
+To install the library -> pip install pytgcalls
+sudo pip3 install pytgcalls
+pip3 install pytgcalls
