@@ -1,12 +1,16 @@
-- **code made by me but taken by pytgcalls**
+- **Code that I created based on PYTGCALLS**
 
-Hi to all 
+Hi everyone
 
-If you want to get this code use the pytgcalls library
+To use this code, you have to install the pytgcalls library.
 
-To install the library -> pip install pytgcalls
+To install the library, exeute the following on the linux terminal:
+
+```bash
+pip install pytgcalls
 sudo pip3 install pytgcalls
 pip3 install pytgcalls
+```
 
 
-profile me contact @aledev01
+My telegram profile: @aledev01
